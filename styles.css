@@ -1,0 +1,130 @@
+h1 {
+    color:rgb(42, 90, 60);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+#contenedor {
+background-color: rgb(50, 189, 191);
+width: 300px;
+height: 300px;
+}
+.primera {
+    background-color: rgb(215, 48, 190);
+    width: 100px;
+    height: 50px;
+    position: absolute;
+}
+.segunda{
+    background-color: rgb(53, 200, 36);
+    width: 100px;
+    height: 50px;
+    margin-left: 100px;
+}
+.tercera{
+    background-color: aqua;
+    width: 100px;
+    height: 50px;
+    
+}
+.cuarta{
+    background-color: rgb(199, 24, 24);
+    width: 100px;
+    height: 50px;
+
+}
+.quinta{
+    background-color: rgb(10, 43, 83);
+    width: 100px;
+    height: 50px;
+
+}
+.sexta{
+    background-color: rgb(205, 103, 25);
+    width: 100px;
+    height: 50px;
+
+}
+.septima{
+    background-color: blue;
+    width: 100px;
+    height: 50px;
+}
+.octava{
+    background-color: rgb(255, 233, 63);
+    width: 100px;
+    height: 50px;
+    margin-left: 100px;
+    margin-top: -100px;
+    }
+.novena{
+    background-color: rgb(255, 63, 117);
+    width: 100px;
+    height: 50px;
+    margin-left: 100px;
+    margin-top: -100px
+
+}
+.decima{
+    background-color: rgb(6, 71, 13);
+    width: 100px;
+    height: 50px;
+    margin-left: 100px;
+    margin-top: -100px
+
+}
+.onceava{
+    background-color: rgb(113, 22, 223);
+    width: 100px;
+    height: 50px;
+    margin-left: 200px;
+    margin-top: -100px
+
+}
+.doceava{
+    background-color: rgb(255, 230, 131);
+    width: 100px;
+    height: 50px;
+    margin-left: 200px;
+    margin-top: -100px
+}
+.trece{
+    background-color: rgb(141, 255, 131);
+    width: 100px;
+    height: 50px;
+    margin-left: 200px;
+    
+
+}
+.catorce{
+    background-color: rgba(75, 84, 16, 0.926);
+    width: 100px;
+    height: 50px;
+    margin-left: 200px;
+    
+
+}
+.quince{
+    background-color: rgb(230, 125, 170);
+    width: 100px;
+    height: 50px;
+    margin-left: 200px;
+    
+
+}
+.dieciseis{
+    background-color: rgb(199, 246, 10);
+    width: 100px;
+    height: 50px;
+    margin-left: 200px;
+    
+
+}
+.diecisiete{
+    background-color: rgb(129, 61, 61);
+    width: 100px;
+    height: 50px;
+    margin-left: 200px;
+    
+
+}
